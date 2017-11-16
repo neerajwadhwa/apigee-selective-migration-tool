@@ -1,0 +1,39 @@
+{
+  "name": "apigeeselectivemigratetool",
+  "version": "1.5.0",
+  "description": "A CLI for Apigee Edge migration",
+  "bin": {
+    "apigeemigrate": "./lib/cli.js"
+  },
+  "scripts": {
+    "test": "mocha -R spec",
+    "remotetest": "mocha -R spec remotetests"
+  },
+  "keywords": [
+    "Apigee",
+    "CLI",
+    "Migrate",
+    "Selective Migrate"
+  ],
+  "authors": [
+    "Neeraj Wadhwa <neeraj@digitalapicraft.com>"
+  ],
+  "dependencies": {
+    "async": "^2.5.0",
+    "chai": "^4.1.0",
+    "cli-table": "^0.3.1",
+    "colors": "^1.1.2",
+    "forEachAsync": "^3.0.0",
+    "glob": "^7.1.2",
+    "inquirer": "^3.1.1",
+    "intersect": "^1.0.1",
+    "lodash": "^4.17.4",
+    "mkdirp": "^0.5.1",
+    "mocha": "^3.4.2",
+    "node-dir": "^0.1.17",
+    "object-foreach": "^0.1.2",
+    "prompt-checkbox": "^2.2.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {}
+}

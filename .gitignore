@@ -1,0 +1,5 @@
+node_modules
+data
+.idea
+.DS_Store
+lib/.DS_Store

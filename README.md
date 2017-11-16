@@ -1,6 +1,6 @@
-# ApigeeSelectiveMigrationTool https://travis-ci.org/neerajwadhwa/apigeeselectivemigrationtool.svg?branch=master
+# ApigeeSelectiveMigrationTool
 
-This tool is used to selectively migrate Apigee entities from one organization to another organization.
+This tool is used to selectively migrate different Apigee entities from one organization to another organization.
 
 
 ### Prerequisites

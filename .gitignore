@@ -3,3 +3,4 @@ data
 .idea
 .DS_Store
 lib/.DS_Store
+.travis.yml

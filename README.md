@@ -124,9 +124,5 @@ Please select the Apigee entities when the prompt appears on the screen for any 
 
 * `apigeemigrate importUsers` - Import all the users which were exported previously to the target organization.
 
-* `apigeemigrate exportUserRoles` - Export all the specified user roles from the source organization.
-
-* `apigeemigrate importUserRoles` - Import all the user roles which were exported previously to the target organization.
-
 * `apigeemigrate deployAPIProxy` - Deploy the imported API proxies to the target organization in the target environment.
 

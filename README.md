@@ -18,7 +18,7 @@ Following are some prerequisites for Apigee Selective Migration Tool:
 
 Follow the below mentioned steps to install the tool
 
-1) Clone the repository from [https://github.com/neerajwadhwa/apigeeselectivemigatetool.git].
+1) Clone the repository from (here)[https://github.com/neerajwadhwa/apigeeselectivemigrationtool.git].
 
 2) Edit the configuration file "config.js" with appropriate credentials.
 

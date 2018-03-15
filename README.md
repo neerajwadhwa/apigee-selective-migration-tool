@@ -1,6 +1,6 @@
-# ApigeeSelectiveMigrationTool
+# Apigee Selective Migration Tool
 
-This tool is used to selectively migrate different Apigee entities from one organization to another organization.
+This tool is used to perform selective migration of different Apigee entities from one organization to another organization.
 
 
 ### Prerequisites
